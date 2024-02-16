@@ -13,6 +13,7 @@ typedef long long ll;
 #define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define endl '\n'
 #define PI acos(-1)
+
 void solve(){
     
 }
